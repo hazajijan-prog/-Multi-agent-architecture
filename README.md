@@ -20,3 +20,7 @@ User → Input validation → Planner → Doer → Critic → Human approval →
 - Functions are stubbed
 - Data is hardcoded
 - Focus is on architecture, not production AI
+
+## Diagram
+
+![System Diagram](Multi_agent.pdf)
